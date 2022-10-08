@@ -17,7 +17,7 @@
   <a href="https://wa.me/62887435006141?text=Hi%20Bang Dave"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/OFFCIAL76"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/RioDxD"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="tiktok.com/@Eichii01"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzz-010101?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@Eichii01" /><br>
+  <a href="tiktok.com/@Eichii01"><img src="https://img.shields.io/badge/Tiktok-Dave-010101?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@Eichii01" /><br>
   <a name=Eichii01&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://komarev.com/ghpvc/?username=Eichii01&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Eichii01&color=green&style=flat-square&label=Profile+View"></a>
 </p>
