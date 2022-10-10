@@ -1,6 +1,6 @@
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/9cb600761a5f2636aa48c.jpg" />
+  <img src="https://telegra.ph/file/fbfed2ab1c9ddd7645c60.jpg" />
 </p>
 
 <p align="center">
